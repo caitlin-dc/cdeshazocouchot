@@ -5,8 +5,8 @@
       However I am also interested in data and machine learning languages like SQL and Python in the near future.
       
 - 🌱 I’m currently learning Java fundamentals at the University and HTML/CSS basics.
-      I'll be sharing some of my homework assignments and projects that I've worked on omitting some essential parts that other 
-      students may try to use for their own homework (that being said, my assignments aren't perfect examples just yet :D).
+      I have my assignments in private repositories so as not to give other students potential answers.
+      (Available upon request for recruiters who want to see my work). :D
 
 - 💞️ I’m looking to collaborate on websites, game projects, or apps with mutuals that I know in real life. 
 
