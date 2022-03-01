@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @cdeshazocouchot. I am an engineering undeclared student at the University of Washington - Seattle with an interest in 
-     Electrical and Computer Engineering with a focus on computer programming and data science.
-     
-- 👀 My interests are vast; I am currently interested in HTML, CSS, Javascript, and Java.
-      However I am also interested in data and machine learning languages like SQL and Python in the near future.
+- 👋 Hi, I’m @cdeshazocouchot. I am an Electrical and Computer Engineering - Embedded Systems student at the University of Washington - Seattle. I am tailoring my major toward software and computer programming.
+
+- 👀 My interests are vast; I am currently interested and learning Java.
+      I am very interested in learning how to optimize algorithms, data structures, and run-time.
       
-- 🌱 I’m currently learning Java fundamentals at the University and HTML/CSS basics.
+- 🌱 I’m currently learning Java fundamentals and have taken CSE 142, 143, 331, and 373.
       I have my assignments in private repositories so as not to give other students potential answers.
-      (Available upon request for recruiters who want to see my work). :D
+      (Available upon request).
 
 - 💞️ I’m looking to collaborate on websites, game projects, or apps with mutuals that I know in real life. 
 
