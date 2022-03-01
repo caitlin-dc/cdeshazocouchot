@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cdeshazocouchot. I am an Electrical and Computer Engineering - Embedded Systems student at the University of Washington - Seattle. I am tailoring my major toward software and computer programming.
+- 👋 Hi, I’m @caitlin-dc. I am an Electrical and Computer Engineering - Embedded Systems student at the University of Washington - Seattle. I am tailoring my major toward software and computer programming.
 
 - 👀 My interests are vast; I am currently interested and learning Java.
       I am very interested in learning how to optimize algorithms, data structures, and run-time.
